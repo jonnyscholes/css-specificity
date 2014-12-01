@@ -1,0 +1,8 @@
+{
+	"name": "css-selector-specificity",
+	"version": "0.0.1",
+	"author": "Jonny Scholes",
+	"dependencies": {
+		"css-selector-parser": "~1.0.3"
+	}
+}
