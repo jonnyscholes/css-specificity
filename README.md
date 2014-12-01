@@ -1,12 +1,12 @@
+[Use this instead](https://www.npmjs.org/package/css-specificity)
+==========
+Made this module, then found one exists on npm already. Use it instead.
+
 css-specificity
 ===========
 
 css-specificity takes a string and tells you the CSS specificity of each selector within it.
 
-Install
--------
-
-``` npm install css-specificity ```
 
 Usage
 -----
